@@ -1,8 +1,10 @@
 import React from "react";
-
+import { Routes , Route } from 'react-router-dom';
 import resumeSvg from "../../assets/resume.svg";
-
+import { Link } from "react-router-dom";
 import styles from "./Header.module.css";
+import Body from "../Body/Body";
+
 
 function Header() {
   return (
@@ -18,6 +20,9 @@ function Header() {
       <div className={styles.right}>
         <img src={resumeSvg} alt="Resume" />
       </div>
+      <Link to="/body">
+    <button className={styles.bt}>Let's build resume</button>
+    </Link>
     </div>
   );
 }
