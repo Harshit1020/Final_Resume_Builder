@@ -7,5 +7,4 @@ const About = () => {
     About Page</div>
   )
 }
-
 export default About
