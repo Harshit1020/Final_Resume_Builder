@@ -1,0 +1,35 @@
+.abc{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1531315630201-bb15abeb1653?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    color: #fff;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.txt{
+
+    text-align: center;
+    font-weight: 500;
+    font-family: "Aeonik Pro";
+    text-wrap: wrap;
+    width: 50%
+}
+
+.icon{
+
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+
+}
+
+
+
