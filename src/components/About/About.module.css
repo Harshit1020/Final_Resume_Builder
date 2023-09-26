@@ -29,7 +29,61 @@
     justify-content: space-between;
     width: 500px;
 
+
 }
+
+.txt2{
+
+    text-decoration: none;
+    /* color: #fff; */
+    width: 50px;
+    height: 50px;
+    background-color:;
+    border-radius: 50%;
+    font-weight: 800;
+    font-family: gilroy;
+
+
+}
+.txt3{
+
+    text-decoration: none;
+    /* color: #fff; */
+    font-weight: 800;
+    font-family: gilroy;
+    width: 50px;
+    height: 50px;
+    background-color:;
+    border-radius: 50%;
+
+
+}
+.txt4{
+
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+    background-color:;
+    font-weight: 800;
+    font-family: gilroy;
+    border-radius: 50%;
+
+
+}
+.txt5{
+
+    text-decoration: none;
+    /* color: #fff; */
+    width: 50px;
+    height: 50px;
+    background-color:;
+    border-radius: 50%;
+    font-weight: 800;
+    font-family: gilroy;
+
+
+}
+
 
 
 

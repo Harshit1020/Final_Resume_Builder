@@ -12,10 +12,10 @@ const About = () => {
       </div>
     <div className={css.icon}>
 
-      <Link>Facebook</Link>
-      <Link>Instagram</Link>
-      <Link>Twitter</Link>
-      <Link>Linkedln</Link>
+      <Link className={css.txt2}>Facebook</Link>
+      <Link className={css.txt3}>Instagram</Link>
+      <Link className={css.txt4}>Twitter</Link>
+      <Link className={css.txt5}>Linkedln</Link>
 
     </div>
     </div>
